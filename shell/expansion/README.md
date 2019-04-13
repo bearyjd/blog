@@ -36,11 +36,37 @@ ${parameter//pattern/string}
 //表示全部替换
 ```  
 
+### Examples
+
+```  
+${parameter/pattern/string}
+
+var="3/1/2/3333"
+echo ${var/3/6}
+6/1/2/3333
+
+${parameter//pattern/string}
+var="3/1/2/3333"
+echo ${var//3/6}
+6/1/2/6666
+```  
+
+
 ## 字符串长度  
 
 ```  
 ${#parameter}
 获得字符串的长度
+```  
+
+### Examples
+
+```  
+${#parameter}
+
+var="Hello"
+echo ${#var}
+5
 ```  
 
 ## 字符过滤  
