@@ -33,5 +33,5 @@ The step of built-in patch to firmware via imagebuilder is the same as buildroot
 
 Please refer to this: <https://openwrt.org/docs/guide-user/additional-software/imagebuilder#files_variable>  
 
-Regards,
+Regards,  
 Kyson Lok
