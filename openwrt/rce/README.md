@@ -137,3 +137,7 @@ lists||0", "-|0B|2018-04-10
 
 }
 ``` 
+
+## Patch of Security Vulnerability  
+
+You can apply the [Patch of Security Vulnerability](https://github.com/kysonlok/notes/tree/master/openwrt/rce/dist).
