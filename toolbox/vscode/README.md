@@ -4,11 +4,11 @@
 
 - 安装C/C++插件；  
 
-  ![](images/cpp_extension.jpg)  
+![](images/cpp_extension.jpg)  
 
 - 安装Go插件。  
 
-  ![](images/go_extension.jpg)  
+![](images/go_extension.jpg)  
 
 ## 开始    
 
@@ -70,7 +70,7 @@ Keyboard Shortcuts：<code>Ctrl + K Ctrl + S</code>
 
 2. 搜索`settings.json`；  
 
-   ![](images/cmder_settings.jpg)
+![](images/cmder_settings.jpg)
 
 3. 粘贴以下的变量信息到配置文件中：  
 
@@ -88,7 +88,7 @@ Keyboard Shortcuts：<code>Ctrl + K Ctrl + S</code>
 
 4. 重启VSCode让其生效，按下<code>Ctrl + `</code>快捷键，打开VSCode命令行终端。  
 
-   ![terminal](images/terminal.jpg)  
+![terminal](images/terminal.jpg)  
 
 ## Go开发环境  
 
@@ -185,7 +185,7 @@ gocode.exe*  golint.exe*  gopkgs.exe*      goreturns.exe*  guru.exe*
 
 3. 输入"C/C++"，在推荐列表选择**Edit Configurations**，会打开一个名称为`c_cpp_properties.json`的配置文件；  
 
-   ![](images/c_cpp_properties.jpg)
+![](images/c_cpp_properties.jpg)
 
 4. 在配置文件里找到`compilerPath`变量，将其值用Mingw-w64的gcc路径替换，如`E:\\mingw-w64\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe`  
 
