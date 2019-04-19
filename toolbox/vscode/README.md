@@ -4,11 +4,11 @@
 
 - 安装C/C++插件；  
 
-  ![](images/cpp_extension.png)  
+  ![](images/cpp_extension.jpg)  
 
 - 安装Go插件。  
 
-  ![](images/go_extension.png)  
+  ![](images/go_extension.jpg)  
 
 ## 开始    
 
@@ -185,7 +185,7 @@ gocode.exe*  golint.exe*  gopkgs.exe*      goreturns.exe*  guru.exe*
 
 3. 输入"C/C++"，在推荐列表选择**Edit Configurations**，会打开一个名称为`c_cpp_properties.json`的配置文件；  
 
-   ![](images/c_cpp_properties.png)
+   ![](images/c_cpp_properties.jpg)
 
 4. 在配置文件里找到`compilerPath`变量，将其值用Mingw-w64的gcc路径替换，如`E:\\mingw-w64\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe`  
 
