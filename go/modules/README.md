@@ -91,14 +91,18 @@ require rsc.io/quote v1.5.2
 
 - 当需要指定依赖版本的时候，可以执行诸如这样的命令`go get foo@v1.2.3`, `go get foo@master`, `go get foo@e3702bed2`，或者直接编辑`go.mod`文件  
 
-A brief tour of other common functionality you might use:
+简单介绍我们可能常会用到的功能：  
 
-- `go list -m all` — View final versions that will be used in a build for all direct and indirect dependencies  
-- `go list -u -m all` — View available minor and patch upgrades for all direct and indirect dependencies  
-- `go get -u` or `go get -u=patch` — Update all direct and indirect dependencies to latest minor or patch upgrades (pre-releases are ignored)  
-- `go build ./...` or `go test ./...` — Build or test all packages in the module when run from the module root directory  
-- `go mod tidy` — Prune any no-longer-needed dependencies from `go.mod` and add any dependencies needed for other combinations of OS, architecture, and build tags  
-- `replace` directive or `gohack` — Use a fork, local copy or exact version of a dependency  
-- `go mod vendor` — Optional step to create a `vendor` directory  
+- `go list -m all` — 查看构建中直接或者间接依赖的packages的当前版本  
+- `go list -u -m all` — 查看直接或者间接依赖的packages的最新版本  
+- `go get -u` or `go get -u=patch` — 更新直接或者间接依赖的pakages到最新版本  
+- `go build ./...` or `go test ./...` — 在模块的跟目录执行时，构建并且测试模块中的所有pakages  
+- `go mod tidy` — 从`go.mod`中删除任何不再需要的依赖项  
+- `replace` directive or `gohack` — 用另外一个版本代替自动推导的版本，可以是源于不同的repo  
+- `go mod vendor` — 创建`vendor`目录，并且把直接或者间接依赖的packages复制到该目录下    
 
-好了，先Mark到这里。
+好了，先Mark到这里。  
+
+## See also  
+
+[Go Modules](https://github.com/golang/go/wiki/Modules)
