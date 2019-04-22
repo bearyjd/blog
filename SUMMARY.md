@@ -1,6 +1,8 @@
 # Summary
 
 * [Welcome](README.md)
+* [Go](go/README.md)
+	* [A Quick Guide for Go Modules](go/modules/README.md)
 * [OpenWRT](openwrt/README.md)
 	* [Remote Command Execution on GL.iNet's mini-routers](openwrt/rce/README.md)
 * [shell](shell/README.md)
