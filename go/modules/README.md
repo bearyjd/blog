@@ -93,13 +93,13 @@ require rsc.io/quote v1.5.2
 
 简单介绍我们可能常会用到的功能：  
 
-- `go list -m all` — 查看构建中直接或者间接依赖的packages的当前版本  
-- `go list -u -m all` — 查看直接或者间接依赖的packages的最新版本  
-- `go get -u` or `go get -u=patch` — 更新直接或者间接依赖的pakages到最新版本  
-- `go build ./...` or `go test ./...` — 在模块的跟目录执行时，构建并且测试模块中的所有pakages  
-- `go mod tidy` — 从`go.mod`中删除任何不再需要的依赖项  
-- `replace` directive or `gohack` — 用另外一个版本代替自动推导的版本，可以是源于不同的repo  
-- `go mod vendor` — 创建`vendor`目录，并且把直接或者间接依赖的packages复制到该目录下    
+- `go list -m all`: 查看构建中直接或者间接依赖的packages的当前版本  
+- `go list -u -m all`: 查看直接或者间接依赖的packages的最新版本  
+- `go get -u` or `go get -u=patch`: 更新直接或者间接依赖的pakages到最新版本  
+- `go build ./...` or `go test ./...`: 在模块的跟目录执行时，构建并且测试模块中的所有pakages  
+- `go mod tidy`: 从`go.mod`中删除任何不再需要的依赖项  
+- `replace指令` or `gohack`: 用另外一个版本代替自动推导的版本，可以是源于不同的repo  
+- `go mod vendor`: 创建**vendor**目录，并且把直接或者间接依赖的packages复制到该目录下    
 
 好了，先Mark到这里。  
 
