@@ -18,6 +18,8 @@
 	* [User's Guide for Awk](shell/awk/README.md)
 * [Python语言](python/README.md)
 * [投资理财](investment/README.md)
+	* [股票入门基础](investment/introduction_for_stock/README.md)
+	* [找准股票入场时机](investment/buy_stock_at_right_time/README.md)
 * [工具箱](toolbox/README.md)
 	* [A Guide of Visual Studio Code](toolbox/vscode/README.md)
 	* [hexo搭建博客](toolbox/hexo/README.md)
