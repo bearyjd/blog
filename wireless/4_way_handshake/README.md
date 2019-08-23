@@ -118,7 +118,19 @@ GMK 用在四次握手来生成 GTK，GTK 在 AP 端由 MSK 生成，所有连�
 
 Supplicant 和 Authenticator 就此完成密钥派生和组对， 双方可以正常进行通信了。
 
-## 0x04 总结  
+## 0x04 WireShark 802.11过滤规则  
+
+![Management Frames](./images/Management Frames.jpg)  
+
+![Control Frames](./images/Control Frames.jpg)  
+
+![Data Frames](./images/Data Frames.jpg)  
+
+![Retry](./images/Retry.jpg)  
+
+![Weak signals](./images/Weak signals.jpg)  
+
+## 0x05 总结  
 
 Station 扫描 AP 有两种模式，主动扫描和被动扫描。我们这里用的是主动扫描，Station 发起 Probe Reques t帧，AP 响应 Probe Response 帧。连接过程，Station 发起认证关联请求，由 unauthenticated 和 un-associated 状态转变为 authenticated 和 associated，通过安全检查之后 AP 发起四次握手。四次握手成功后，双方就开始正常通信了。  
 
