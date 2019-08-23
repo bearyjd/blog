@@ -22,11 +22,11 @@ PTK 用来加密 AP 和 Station 通讯的单播数据包，AP 与每个 Station 
 
 **PMK** 下面会谈到；  
 
-**ANonce **是 AP 生成的随机数，A 表示 authenticator；  
+**ANonce**是 AP 生成的随机数，A 表示 authenticator；  
 
 **SNonce** 是 Station 生成的随机数，S 表示 supplicant；  
 
-**Mac(AA) ** 是 AP 的 Mac 地址；  
+**Mac(AA)** 是 AP 的 Mac 地址；  
 
 **Mac(SA)** 是 Station 的 Mac 地址；  
 
@@ -60,7 +60,7 @@ GMK 用在四次握手来生成 GTK，GTK 在 AP 端由 MSK 生成，所有连�
 
 我们用个金字塔模型把这些 Key 分层：  
 
-![Key Hierarchy](./images/Key Hierarchy.png)
+![Key Hierarchy](./images/Key_Hierarchy.png)
 
 1. 金字塔顶层是 MSK，在 802.1X/EAP 或者 PSK 身份认证的过程生成；  
 
@@ -84,7 +84,7 @@ GMK 用在四次握手来生成 GTK，GTK 在 AP 端由 MSK 生成，所有连�
 
 最后进行安全性校验，然后 AP 发起四次握手。  
 
-![Authenticated and Associated](./images/Authenticated and Associated.jpg)
+![Authenticated and Associated](./images/Authenticated_and_Associated.jpg)
 
 ![4-Way-Handshake-Capture](./images/4-Way-Handshake-Capture.jpg)
 
@@ -120,15 +120,15 @@ Supplicant 和 Authenticator 就此完成密钥派生和组对， 双方可以�
 
 ## 0x04 WireShark 802.11过滤规则  
 
-![Management Frames](./images/Management Frames.jpg)
+![Management Frames](./images/Management_Frames.jpg)
 
-![Control Frames](./images/Control Frames.jpg)
+![Control Frames](./images/Control_Frames.jpg)
 
-![Data Frames](./images/Data Frames.jpg)
+![Data Frames](./images/Data_Frames.jpg)
 
 ![Retry](./images/Retry.jpg)
 
-![Weak signals](./images/Weak signals.jpg)
+![Weak signals](./images/Weak_signals.jpg)
 
 ## 0x05 总结  
 
