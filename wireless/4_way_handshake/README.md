@@ -120,15 +120,15 @@ Supplicant 和 Authenticator 就此完成密钥派生和组对， 双方可以�
 
 ## 0x04 WireShark 802.11过滤规则  
 
-![Management Frames](./images/Management Frames.jpg)  
+![Management Frames](./images/Management Frames.jpg)
 
-![Control Frames](./images/Control Frames.jpg)  
+![Control Frames](./images/Control Frames.jpg)
 
-![Data Frames](./images/Data Frames.jpg)  
+![Data Frames](./images/Data Frames.jpg)
 
-![Retry](./images/Retry.jpg)  
+![Retry](./images/Retry.jpg)
 
-![Weak signals](./images/Weak signals.jpg)  
+![Weak signals](./images/Weak signals.jpg)
 
 ## 0x05 总结  
 
