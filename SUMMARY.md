@@ -8,6 +8,7 @@
 	* [udhcpc如何绑定网络接口](openwrt/how_does_udhcpc_work/README.md)
 	* [提交新平台补丁到OpenWRT社区](openwrt/submit_patch/README.md)
 * [无线WiFi驱动](wireless/README.md)
+	* [WiFi 四次握手分析](wireless/4_way_handshake/README.md)
 	* [mac80211框架基础](wireless/mac80211_framework_basic/README.md)
 * [数据结构与算法](algorithm/README.md)
 * [VPN技术](vpn/README.md)
