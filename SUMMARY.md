@@ -22,6 +22,7 @@
 	* [股票入门基础](investment/introduction_for_stock/README.md)
 	* [找准股票入场时机](investment/buy_stock_at_right_time/README.md)
 	* [合理规避风险](investment/mitigate_risks_effectively/README.md)
+	* [“好公司”投资法](investment/invest_in_good_companies/README.md)
 * [工具箱](toolbox/README.md)
 	* [A Guide of Visual Studio Code](toolbox/vscode/README.md)
 	* [hexo搭建博客](toolbox/hexo/README.md)
