@@ -39,7 +39,7 @@
 
 由以上公式可看出，**收入的多少直接影响着公司利润的多少**。简化的利润表如下图所示：  
 
-![](C:/Users/kyson/Desktop/analysis_financial_sheet/images/profit_statement.png)
+![](./images/profit_statement.png)
 
 ### 了解会计的记账  
 
