@@ -25,6 +25,7 @@
 	* [合理规避风险](investment/mitigate_risks_effectively/README.md)
 	* [“好公司”投资法](investment/invest_in_good_companies/README.md)
 	* [财务三表分析](investment/analysis_financial_sheet/README.md)
+	* [“捡烟蒂”投资法](investment/invest_in_cheap_stocks/README.md)
 * [工具箱](toolbox/README.md)
 	* [A Guide of Visual Studio Code](toolbox/vscode/README.md)
 	* [hexo搭建博客](toolbox/hexo/README.md)
