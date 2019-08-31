@@ -18,6 +18,7 @@
 	* [Parameter Expansion ${}](shell/expansion/README.md)
 	* [User's Guide for Awk](shell/awk/README.md)
 * [Python语言](python/README.md)
+	* [Python in Visual Studio Code](python/python_in_visual_studio_code/README.md)
 * [投资理财](investment/README.md)
 	* [股票入门基础](investment/introduction_for_stock/README.md)
 	* [找准股票入场时机](investment/buy_stock_at_right_time/README.md)
