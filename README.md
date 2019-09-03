@@ -12,7 +12,7 @@
 	* [mac80211框架基础](wireless/mac80211_framework_basic/README.md)
 * [密码学与安全](cryptography/README.md)
 	* [Feistel Cipher](cryptography/feistel_cipher/README.md)
-	* [Data Encryption Standard](cryptography/DES/README.md)
+	* [Data Encryption Standard(DES)](cryptography/DES/README.md)
 	* [Advanced Encryption Standard(AES)](cryptography/AES/README.md)
 * [数据结构与算法](algorithm/README.md)
 * [VPN技术](vpn/README.md)
