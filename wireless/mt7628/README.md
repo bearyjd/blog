@@ -2,7 +2,7 @@
 
 Make sure that you have got the wireless driver of MT7628 from MediaTek or your distributor.   
 
-You can find the source code in [](./src), please create a fold named wlan_assoclist in you buildroot's package path, and copy all files into it.  
+You can find the source code in [demo source code](./src), please create a fold named wlan_assoclist in you buildroot's package path, and copy all files into it.  
 
 ## Compile
 
