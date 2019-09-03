@@ -1,18 +1,8 @@
 ## Prepare
 
-Make sure that you have got the wireless driver from MediaTek or your distributor. If you flash the v3.x firmware of MT300N-V2, it should be fine as well. 
+Make sure that you have got the wireless driver of MT7628 from MediaTek or your distributor.   
 
-Clone the git repository to your local machine.  
-
-```  
-git clone https://github.com/kysonlok/op-docs.git /tmp/op-docs
-```  
-
-Copy the source code to your OpenWRT buildroot.  
-
-```  
-cp -fr /tmp/op-docs/src/wlan_assoclist YOUR_BUILDROOT/package
-```  
+You can find the source code in [](./src), please create a fold named wlan_assoclist in you buildroot's package path, and copy all files into it.  
 
 ## Compile
 
