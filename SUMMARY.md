@@ -30,7 +30,7 @@
 * [Python语言](python/README.md)
 	* [Python in Visual Studio Code](python/python_in_visual_studio_code/README.md)
 * [投资理财](investment/README.md)
-	* [股票入门基础](investment/introduction_for_stock/README.md)
+	* [【入门】股票入门基础](investment/introduction_for_stock/README.md)
 	* [【股初】找准股票入场时机](investment/buy_stock_at_right_time/README.md)
 	* [【股初】合理规避风险](investment/mitigate_risks_effectively/README.md)
 	* [【股初】“好公司”投资法](investment/invest_in_good_companies/README.md)
