@@ -14,6 +14,7 @@
 	* [WPS on GL.iNet's OpenWRT](wireless/wps/README.md)
 * [密码学与安全](cryptography/README.md)
 	* [Feistel Cipher](cryptography/feistel_cipher/README.md)
+	* [数据加密标准(DES)](cryptography/data_encryption_standard/README.md)
 	* [Data Encryption Standard(DES)](cryptography/des/README.md)
 	* [Advanced Encryption Standard(AES)](cryptography/aes/README.md)
 * [数据结构与算法](algorithm/README.md)
