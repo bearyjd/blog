@@ -37,6 +37,7 @@
 	* [【股初】财务三表分析](investment/analysis_financial_sheet/README.md)
 	* [【股初】“捡烟蒂”投资法](investment/invest_in_cheap_stocks/README.md)
 	* [【股初】构建白马组合](investment/pick_good_stocks/README.md)
+	* [【股进】选择好生意](investment/great_business/README.md)
 * [工具箱](toolbox/README.md)
 	* [A Guide of Visual Studio Code](toolbox/vscode/README.md)
 	* [hexo搭建博客](toolbox/hexo/README.md)
