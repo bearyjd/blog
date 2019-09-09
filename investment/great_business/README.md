@@ -6,7 +6,7 @@
 
 利润表，又叫损益表，主要体现公司在一段时间内是赚钱还是亏钱。因此，通过看公司的净利润，我们就知道这段时间公司是亏了还是赚了。  
 
-![](C:/Users/Kyson%20Lok/Desktop/great_business/images/profit_statement.jpg)
+![](./images/profit_statement.jpg)
 
 由利润表的组成可知，影响净利润的因素有营业收入、营业成本、三费和所得税，但是所得税这部分一般有很大变化，因此，用4个指标来衡量公司的盈利能力。  
 
@@ -48,7 +48,7 @@
 
 资产负债表，记录了在特定的某一天，公司有多少钱、财、物以及欠别人多少钱。  
 
-![](C:/Users/Kyson%20Lok/Desktop/great_business/images/balance_sheet.jpg)
+![](./images/balance_sheet.jpg)
 
 我们用**净营业周期**来衡量公司的运营效率。  
 
@@ -59,7 +59,7 @@
 净营业周期 = 存货周转天数 + 应收账款周转天数 - 应付账款周转天数
 ```
 
-![](C:/Users/Kyson%20Lok/Desktop/great_business/images/operating_cycle.jpg)
+![](./images/operating_cycle.jpg)
 
 **净营业周期就是理杏仁里的现金周转天数。**
 
@@ -73,7 +73,7 @@
 
 筹资活动产生的现金流量（主要来自资产负债表的负债对应的活动）  
 
-![](C:/Users/Kyson%20Lok/Desktop/great_business/images/cash_flow_statement.jpg)  
+![](./images/cash_flow_statement.jpg)  
 
 **自由现金流**是衡量公司现金流情况的指标，代表着公司真正能自由运用的资金。  
 
