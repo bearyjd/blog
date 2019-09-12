@@ -38,6 +38,7 @@
 	* [【股初】“捡烟蒂”投资法](investment/invest_in_cheap_stocks/README.md)
 	* [【股初】构建白马组合](investment/pick_good_stocks/README.md)
 	* [【股进】选择好生意](investment/great_business/README.md)
+	* [【股进】好公司——商业逻辑](investment/great_corporation1/README.md)
 * [工具箱](toolbox/README.md)
 	* [A Guide of Visual Studio Code](toolbox/vscode/README.md)
 	* [hexo搭建博客](toolbox/hexo/README.md)
