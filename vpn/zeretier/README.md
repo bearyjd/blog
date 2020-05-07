@@ -97,6 +97,11 @@ You can manage route in ZeroTier's web console. For example, I add a static rout
 
 ![](images/img4.jpg)
 
+### Access the Remainder of the LAN    
+iptables -t nat -A POSTROUTING -o br-lan -j MASQUERADE
+iptables -A FORWARD -i br-lan -o ztwdjh372k -m conntrack -j ACCEPT --ctstate RELATED,ESTABLISHED 
+iptables -A FORWARD -i ztwdjh372k -o br-lan -j ACCEPT
+
 ## Setup ZeroTier on Ubuntu  
 
 ### Installation  
